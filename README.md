@@ -1,9 +1,3 @@
-* ❌ Screenshots section removed
-* ✏️ Author section updated as requested
-* Clean formatting preserved
-
----
-
 # 🚀 DATA Careers 2026
 
 A modern **React-based career guidance platform** designed to help students and fresh graduates explore the latest trends in the **data industry**, understand career paths, learn essential skills, and build a structured roadmap toward successful careers in:
